@@ -1,0 +1,38 @@
+<p>promos works!</p>
+<table border="2px">
+    <tr>
+    <th>Available Coupons</th>
+    </tr>
+
+
+<tr>
+        <table border=1px>
+      <tr>SUPER30
+      <td>30% off on amount above  500</td>
+      <td><input type=button value="Apply"></td>  
+     </tr>
+  </table>
+    </tr>
+
+
+
+
+  <tr>
+        <table border=1px>
+      <tr>SUPER50
+      <td>50% off on amount above 1500</td>
+      <td><input type=button value="Apply"></td>  
+  </tr>
+
+
+  <tr>
+     
+      <tr>SUPER60
+      <td>60% off on amount above 3500</td>
+      <td><input type=button value="Apply"></td>  
+  </tr>
+</table>
+  </tr>
+    
+    
+    </table>
